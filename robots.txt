@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fleyerma.github.io/sitemap.fleyerma.gz
+Sitemap: https://fleyerma.github.io/app/sitemap.fleyerma.gz
+Sitemap: https://fleyerma.github.io/assets/sitemap.fleyerma.gz
+Sitemap: https://fleyerma.github.io/css/sitemap.fleyerma.gz
+Sitemap: https://fleyerma.github.io/data/sitemap.fleyerma.gz
+Sitemap: https://fleyerma.github.io/includes/sitemap.fleyerma.gz
+Sitemap: https://fleyerma.github.io/item/sitemap.fleyerma.gz
+Sitemap: https://fleyerma.github.io/src/sitemap.fleyerma.gz
